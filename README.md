@@ -1,2 +1,2 @@
 # WEB_KHM
-휴먼교육센터 웹 프론트엔드
+ALOHA CLASS 웹 프론트엔드
